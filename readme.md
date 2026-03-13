@@ -4,4 +4,9 @@
 
 # Compartilhando Projetos
 ## Conheça o GitHub
-... altere aqui ...
+Criar repositórios pelo terminal usando git init
+SSH Key para criptografia da conta(senha para usar no terminal)
+Conectar a conta git pelo terminal
+
+# Colaborando em projetos
+##
