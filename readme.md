@@ -19,3 +19,16 @@
 - Como utilizar e fazer commit pela página de git no Visual Code
 - Resolver conflitos entre dois ou mais commits
 
+# Fazendo commits
+## Mexer no histórico de commits e deletá-los
+- Desfazer commits
+- Resetar commits
+- Alterar commits   
+
+# Outros Recursos
+## Arquivos readme, arquivos no repositório e compartilhamento de projetos
+- O que é e como fazer um arquivo readme
+- Criar arquivo gitignore
+- Compartilhar códigos no gist
+
+# Fim do curso
